@@ -1,4 +1,10 @@
 ---
 label: Joshan
 hide_body: false
-fields: []
+fields:
+- name: jk
+  type: text
+  config:
+    required: false
+  label: Jk
+  description: Something
