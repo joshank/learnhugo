@@ -10,3 +10,5 @@ fields:
     max: '80'
   label: Jk
   description: Something
+pages:
+- content/posts/asd.md
