@@ -5,6 +5,8 @@ fields:
 - name: jk
   type: text
   config:
-    required: false
+    required: true
+    min: '20'
+    max: '80'
   label: Jk
   description: Something
